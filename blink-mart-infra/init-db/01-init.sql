@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS blinkmart_order;
+CREATE DATABASE IF NOT EXISTS blinkmart_inventory;
